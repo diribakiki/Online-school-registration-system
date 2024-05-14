@@ -1,0 +1,49 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <div class="logo">
+            <img src="logo.jpg" width="200" height="100" alt="logo">
+       
+        </div>
+    <script language ="javascript" type="text/javascript">
+                    window.history.forward();
+</script>
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Online registration system</title>
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600' rel='stylesheet' type='text/css'>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+    </head>
+    <body>
+       
+				<h1><a href="#">Online registration system</a></h1>
+				<p>project Design by <a href="http://localhost:8080/onlinevoting/home/home.html" rel="nofollow">Hidare Software Engineering Student</a></p>
+		
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li class="current_page_item"><a href="http://localhost:8080/Online%20school%20registration%20system/Home/Home.jsp">Homepage</a></li>
+			
+			<li><a href="http://localhost:8080/Online%20school%20registration%20system/login/login.jsp">Login page</a></li>
+                        <li><a href="http://localhost:8080/Online%20school%20registration%20system/SignUP/index.html">SignUp</a></li>
+			<li><a href="http://localhost:8080/Online%20school%20registration%20system/login/change_password.html">change password </a></li>
+                        <li><a href="http://localhost:8080/Online%20school%20registration%20system/login/Forget_password.html">Forget password </a></li>
+		</ul>
+                
+        </div > <br/><br/>
+					
+					<div align="center">
+			
+                       
+					<div class="entry"> <a href="#" class="image image-center">
+                                          <img src="images/pics01.jpg" alt="" /></a>
+					</div>
+					</div>								
+			
+<div id="footer">
+	<p>Copyright (c) 2024 Online registration portal.com All rights reserved. |  by <a href="http://localhost:8080/Final_evoting/home/home.html">Online registration</a> | Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">Hidare Software Engineering Student</a>.</p>
+    </body>
+</html>
